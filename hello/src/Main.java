@@ -13,6 +13,6 @@ public class Main {
     public void test(){
         int i=1;
         i++;
-        System.out.println(i);
+        System.out.print(i);
     }
 }
