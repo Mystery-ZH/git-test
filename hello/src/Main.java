@@ -10,4 +10,9 @@ public class Main {
         System.out.println("Hello World!");
         System.out.println("Hello World!");
     }
+    public void test(){
+        int i=1;
+        i++;
+        System.out.println(i);
+    }
 }
